@@ -46,9 +46,10 @@
   <img src="https://img.shields.io/badge/phpMyAdmin-8B0000?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
- 
 -----
- 
+
 <div align="center">
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000,8B0000&height=120§ion=footer&animation=fadeIn" />
+
 </div>
