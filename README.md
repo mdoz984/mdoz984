@@ -46,4 +46,3 @@
   <img src="https://img.shields.io/badge/phpMyAdmin-8B0000?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
------
